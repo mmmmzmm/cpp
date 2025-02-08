@@ -11,15 +11,11 @@ int main (){
 
     cout << "What's your size? (S/M/L)" << '\n';
     cin >> size;
-    if (islower(size)) {
-      size = size - 32;
-    }
+    size = (char) toupper(size);
 
     cout << "Are you a male or a female? (M/F)" << '\n';
     cin >> gender;
-    if (islower(gender)) {
-      gender = gender - 32;
-    }
+    gender = (char) toupper(gender);
 
     cout << "How many do you need?" << '\n';
     cin >> amount;
