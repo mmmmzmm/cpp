@@ -3,6 +3,7 @@ using namespace std;
 
 int main (){
 //while loops
+//what can i do for you to be happy again :(?
 
     int height;
 

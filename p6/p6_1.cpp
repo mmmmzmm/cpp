@@ -3,6 +3,7 @@ using namespace std;
 
 int main (){
 //while loops
+//dont be mad at me please :(
 
     string name;
 
