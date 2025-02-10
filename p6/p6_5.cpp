@@ -2,6 +2,7 @@
 using namespace std;
 
 int main (){
+//nested loops
 
     double x;
     int y;
