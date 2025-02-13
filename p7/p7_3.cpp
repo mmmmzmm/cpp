@@ -22,7 +22,7 @@ int main (){
             case 2: cout << "You won a plushie!";
             break;
             case 3: cout << "You won a mouse pad!";
-            break
+            break;
         }
     }
     else if (y == "n" || y == "no") {
