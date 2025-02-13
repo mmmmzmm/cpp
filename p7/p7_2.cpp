@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cctype>
-
 using namespace std;
 
 int main () {
@@ -9,7 +8,7 @@ int main () {
     string x;
     string y;
 
-    srand(time(nullptr));
+    srand(time(NULL));
 
     cout << "Would you like to roll the dice? [y/n]" << '\n';
     cin >> x;
