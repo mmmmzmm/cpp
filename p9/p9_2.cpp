@@ -11,7 +11,6 @@ int main (){
     double amount;
     string spot;
     srand(time(NULL));
-    bool replay;
     string answer;
     int aiChoice = rand() % 9 + 1;
 
